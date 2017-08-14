@@ -34,5 +34,5 @@ When(/^I guess "([^"]*)"$/) do |guess|
 end
 
 Then(/^the mark should be "([^"]*)"$/) do |mark|
-  expect(terminal_output).to include(mark)
+  expect(terminal_output.messages).to include(mark)
 end
