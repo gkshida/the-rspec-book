@@ -6,7 +6,7 @@ In order to learn about BDD, RSpec and Cucumber these are the codes written in t
 
 ### Prerequisites
 
-..* [Ruby](https://www.ruby-lang.org/en/)
+* [Ruby](https://www.ruby-lang.org/en/)
 
 ### Installing
 
